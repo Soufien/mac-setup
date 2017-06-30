@@ -1,2 +1,2 @@
 # mac-setup
-Mac setup
+$ ./setup.sh
